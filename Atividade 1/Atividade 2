@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lange="pt-br">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <h2>Tabela do Brasileirão</h2>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>Times</th>
+                <th>Vitórias</th>
+                <th>Derrotas</th>
+                <th>Empates</th>
+                <th>pontos</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>Vasco</td>
+            <td>4</td>
+            <td>1</td>
+            <td>3</td>
+            <td>11</td>
+        </tr>
+            <td>Corinthians</td>
+            <td>2</td>
+            <td>3</td>
+            <td>3</td>
+            <td>7</td>
+        <tr>
+            <td>Paysandu</td>
+            <td>5</td>
+            <td>1</td>
+            <td>2</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td>Guarani</td>
+            <td>0</td>
+            <td>6</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+    </table>
+</body>
+</html>
